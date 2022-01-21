@@ -1,12 +1,12 @@
 ## Subscribe to my Youtube Channel
 <p align="center">
 <a href="https://www.youtube.com/UltraMoonTrainer">
-  <img src="https://cdn.discordapp.com/attachments/770382267859206194/934184039772983367/ClipartKey_3043874_2.png">
+<img src="https://cdn.discordapp.com/attachments/770382267859206194/934184039772983367/ClipartKey_3043874_2.png">
 
 ![screenshot](https://media.discordapp.net/attachments/923773957851734056/934182312730562570/unknown.png?width=1202&height=676)
 
 
-## WARNING!
+### WARNING!
 
 YOU WILL BE BANNED IF YOU INSTALL THIS NSP ON SYSNAND
 IF YOU WANT TO HAVE A SAFER METHOD TO INSTALL THIS PLEASE GO HERE TO AN EMUNAND GUIDE.
