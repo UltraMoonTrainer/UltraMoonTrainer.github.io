@@ -20,7 +20,33 @@ INSTALL THIS IF YOU'RE USE EMUNAND AND PUT IT ON THE ROOT OF THE SD CARD!
 
 [SerialNumberSpoofer](https://cdn.discordapp.com/attachments/770382267859206194/934190517669990531/exosphere.ini)
 
-## How To Install The NSP
+## Installing IPSwitch and pchtxt file
+
+Go download IPswitch here.
+
+[IPSwitch Page](https://github.com/3096/ipswitch/releases/tag/0.2.2)
+ 
+The download to the Ipswitch pchtxt file.
+
+[pchtxt Download](https://cdn.discordapp.com/attachments/770382267859206194/934212906512416798/switch.zip)
+
+Extract the zip file and drop the switch folder into the root of the SD Card, then open IPSwitch inside Homebrew.
+
+![screenshot](https://user-images.githubusercontent.com/73441290/150608967-7b48fd94-39bd-4060-99ea-05356ba51859.png)
+  
+Now that IPSwitch is open press A on "Toggle Patch Text Contents" then go to your "ips-main.pchtxt" then press the A button on it 
+
+![screenshot](https://user-images.githubusercontent.com/73441290/150609801-892ac12f-fe2a-4e11-a144-4a288188166d.png)
+
+Now Press the Y button on this screen
+
+![screenshot](https://user-images.githubusercontent.com/73441290/150609990-cfc67c32-dab8-4eb8-8006-831cdc913732.png)
+
+Press The Home button now
+
+![screenshot](https://user-images.githubusercontent.com/73441290/150610126-aa1a78b1-d017-421b-b6f5-dfd9869319d9.png)
+    
+ ## Installing The NSP File
 
 * Find the NSP yourself, maybe its on this site somewhere. :)
 * After its done downloading on your computer drag and drop it onto your SD Card Root.
@@ -55,41 +81,13 @@ Then this prompt should show up and just click install and if you did everything
 
 ![screenshot](https://cdn.discordapp.com/attachments/770382267859206194/934199746460024842/picture04.jpg)
 
-Once its done press the Home Button and you should see it on the homemenu.
+Once its done press the Home Button then open the Splatoon 2 Global Testfire
 
 ![screenshot](https://cdn.discordapp.com/attachments/770382267859206194/934203827861733376/Picsart_22-01-21_13-52-24-969.jpg)
 
-## Installing IPSwitch and pchtxt file
-
-Go download IPswitch here.
-
-[IPSwitch Page](https://github.com/3096/ipswitch/releases/tag/0.2.2)
- 
-The download to the Ipswitch pchtxt file.
-
-[pchtxt Download](https://cdn.discordapp.com/attachments/770382267859206194/934212906512416798/switch.zip)
-
-Extract the zip file and drop the switch folder into the root of the SD Card, then open IPSwitch inside Homebrew.
-
-![screenshot](https://user-images.githubusercontent.com/73441290/150608967-7b48fd94-39bd-4060-99ea-05356ba51859.png)
-  
-Now that IPSwitch is open press A on "Toggle Patch Text Contents" then go to your "ips-main.pchtxt" then press the A button on it 
-
-![screenshot](https://user-images.githubusercontent.com/73441290/150609801-892ac12f-fe2a-4e11-a144-4a288188166d.png)
-
-Now Press the Y button on this screen
-
-![screenshot](https://user-images.githubusercontent.com/73441290/150609990-cfc67c32-dab8-4eb8-8006-831cdc913732.png)
-
-Press The Home button now and launch the Splatoon 2 Global Testfire
-
-![screenshot](https://user-images.githubusercontent.com/73441290/150610126-aa1a78b1-d017-421b-b6f5-dfd9869319d9.png)
-
-
-  
 If you installed everything correctly and this showed up and congratulations, you've installed everything properly!
 
-![screenshot](https://cdn.discordapp.com/attachments/923773957851734056/934184000996646962/unknown.png)
+![screenshot](https://cdn.discordapp.com/attachments/923773957851734056/934184000996646962/unknown.png) 
 
 ## Credits
 
@@ -99,6 +97,6 @@ If you installed everything correctly and this showed up and congratulations, yo
 * borntohonk for making the sigpatches
 * OatmealDome, Haxxie for making the pchtxt ips codes
 
- ## Totally Not a Download link to the Splatoon 2 Global Testfire
+## Totally Not a Download link to the Splatoon 2 Global Testfire
 
 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSlZDRjhwY2tBdlB0VVl1aURUVFhjVjBxN2JuTWVqNHYvdmlldz91c3A9c2hhcmluZw==
